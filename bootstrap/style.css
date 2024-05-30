@@ -1,0 +1,24 @@
+.navbar-nav me-auto mb-2 mb-lg-0 {
+    justify-content: center;
+}
+#vv{
+    text-decoration-line: underline;
+    color:rgb(140, 46, 218)
+} 
+div#cardss {
+    padding-left: 2%;
+    width: 100%;
+    gap:10px;
+}
+.onee{
+    width: 45%;
+    padding-left: 2%;
+    border: 1px solid aqua;
+    border-radius: 80px;
+    color: blue;
+    background-color: rgb(160, 245, 245);
+    
+}
+/* .fa-heart{
+    font-size: 90px;
+} */
